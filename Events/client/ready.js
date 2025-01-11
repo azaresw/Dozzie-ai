@@ -65,9 +65,9 @@ module.exports = {
       setInterval(checkReminders, 20000);
     let acts = [
       {
-        name: "your messages 🙉",
+        name: "❤ waiting for you ❤",
         type: 3,
-        status: "online",
+        status: "idle",
       },
       {
         name: `"Waiting for you to talk to me" 🤗`,
